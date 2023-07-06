@@ -1,0 +1,20 @@
+{
+  "name": "fulldiscordbot",
+  "version": "1.0.0",
+  "description": "https://github.com/DuckoDas/FullDiscordBot Credit to Lyxcode base cause i was too lazy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/DuckoDas/FullDiscordBot",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-html-transcripts": "^3.1.3",
+    "discord.js": "^14.7.1",
+    "glob": "^8.0.3",
+    "mongoose": "^6.9.0"
+  }
+}
